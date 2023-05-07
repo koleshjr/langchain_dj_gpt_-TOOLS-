@@ -35,9 +35,13 @@ Used to run our langchain dj gpt agent
 
 ## How to run it
   >clone the repo
+  
   >create a virtual environment
+  
   >pip install -r requirements.txt
+  
   >create a .env folder to store all your api keys and secretive information that you don't wanna share 
+  
   >run the main.py
 =======
 >>>>>>> d10752875ae091645fe49003dfc9e8d2d291fa8b
