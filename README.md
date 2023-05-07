@@ -1,5 +1,6 @@
 # langchain_dj_gpt
 Created a langchain dj gpt agent thanks to lablabai workshops guided by Hai Nghiem
+<<<<<<< HEAD
 
 Technologies used: Langchain React Agent, Spotipy and spotify api
 
@@ -38,3 +39,5 @@ create a virtual environment
 pip install -r requirements.txt
 create a .env folder to store all your api keys and secretive information that you don't wanna share 
 then run the main.py
+=======
+>>>>>>> d10752875ae091645fe49003dfc9e8d2d291fa8b
