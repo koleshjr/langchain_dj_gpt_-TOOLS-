@@ -1,3 +1,4 @@
+#create all spotify helper functions for the app
 import os
 from dotenv import load_dotenv
 import spotipy
