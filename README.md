@@ -43,5 +43,4 @@ Used to run our langchain dj gpt agent
   >create a .env folder to store all your api keys and secretive information that you don't wanna share 
   
   >run the main.py
-=======
->>>>>>> d10752875ae091645fe49003dfc9e8d2d291fa8b
+
